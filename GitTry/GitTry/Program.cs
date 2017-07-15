@@ -10,9 +10,12 @@ namespace GitTry
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
-            Console.WriteLine("Hello Everybody");
-            Console.WriteLine("Hello my Dear friend");
+            List<string> messages = new List<string> { "Hello World", "Hello Everybody", "Hello my Dear friend" };
+            Class_Hi c_Hi = new Class_Hi();
+            c_Hi.Print(messages.FirstOrDefault(x=>x.StartsWith("H")));
+            Console.Read();
         }
+
+        
     }
 }
