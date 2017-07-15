@@ -11,6 +11,8 @@ namespace GitTry
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("Hello Everybody");
+            Console.WriteLine("Hello my Dear friend");
         }
     }
 }
