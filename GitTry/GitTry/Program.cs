@@ -12,6 +12,7 @@ namespace GitTry
         {
             List<string> messages = new List<string> { "Hello World", "Hello Everybody", "Hello my Dear friend" };
             Class_Hi c_Hi = new Class_Hi();
+            var sft = messages.Select(x => x.ToString());
             c_Hi.Print(messages.FirstOrDefault(x=>x.StartsWith("H")));
             Console.Read();
         }

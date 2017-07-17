@@ -1,0 +1,6 @@
+C:\Users\Xillioner\Documents\Visual Studio 2017\Projects\Repository\GitTry\GitTry\bin\Debug\GitTry.exe.config
+C:\Users\Xillioner\Documents\Visual Studio 2017\Projects\Repository\GitTry\GitTry\bin\Debug\GitTry.exe
+C:\Users\Xillioner\Documents\Visual Studio 2017\Projects\Repository\GitTry\GitTry\bin\Debug\GitTry.pdb
+C:\Users\Xillioner\Documents\Visual Studio 2017\Projects\Repository\GitTry\GitTry\obj\Debug\GitTry.csprojResolveAssemblyReference.cache
+C:\Users\Xillioner\Documents\Visual Studio 2017\Projects\Repository\GitTry\GitTry\obj\Debug\GitTry.exe
+C:\Users\Xillioner\Documents\Visual Studio 2017\Projects\Repository\GitTry\GitTry\obj\Debug\GitTry.pdb
